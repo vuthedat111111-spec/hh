@@ -1,0 +1,6 @@
+{
+  "name": "WebRTC 1-on-1 Call App",
+  "description": "Ứng dụng gọi điện trực tiếp 1-với-1 qua WebRTC với mã phòng, chia sẻ màn hình, lọc tiếng ồn và trò chuyện trực tiếp.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
